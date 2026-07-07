@@ -1,0 +1,15 @@
+{
+  "name": "novagestion",
+  "version": "1.0.0",
+  "description": "Client management platform",
+  "main": "src/App.jsx",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "lucide-react": "^0.263.1"
+  },
+  "devDependencies": {
+    "vite": "^4.3.9",
+    "@vitejs/plugin-react": "^4.0.3"
+  }
+}
